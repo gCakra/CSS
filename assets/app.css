@@ -1,11 +1,12 @@
 h1 {
     color : red;
     font-size: xx-large;
+    background-color: rgb(93, 113, 131);
 }
 
 button {
-    color: purple;
-    background-color: lightgoldenrodyellow;
+    color: #880988;
+    background-color: rgba(111, 111, 72, 0.682);
 }
 
 p{
