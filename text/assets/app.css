@@ -1,0 +1,15 @@
+h1 {
+    font-weight: 900;
+    text-decoration: underline overline rgb(93, 0, 255);
+    text-align: center;
+}
+
+p {
+    line-height: 1.5;
+    letter-spacing: -1px;
+}
+
+
+a {
+    text-decoration: none;
+}
