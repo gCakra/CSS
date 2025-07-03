@@ -1,6 +1,13 @@
 div {
   width: 300px;
   padding: 50px;
-  border: 15px solid green;
   margin: 20px;
+  border-width: 5px;
+  border-top-width: 10px;
+  border-bottom-width: 10px;
+  border-top-style: double;
+  border-bottom-style: dashed;
+  border-right-style: inset;
+  border-left-style: groove;
+  border-color: aqua;
 }
