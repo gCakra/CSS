@@ -9,55 +9,12 @@ h1 {
   margin: 0 auto;
   border: 5px solid black;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 #container div {
-  width: 200px;
-  height: 200px;
-}
-
-#container2 {
-  background-color: yellow;
-  width: 90%;
-  height: 500px;
-  margin: 0 auto;
-  border: 5px solid black;
-  display: flex;
-  flex-direction: row-reverse;
-}
-
-#container2 div {
-  width: 200px;
-  height: 200px;
-}
-
-#container3 {
-  background-color: yellow;
-  width: 90%;
-  height: 500px;
-  margin: 0 auto;
-  border: 5px solid black;
-  display: flex;
-  flex-direction: column;
-}
-
-#container3 div {
-  width: 200px;
-  height: 200px;
-}
-
-#container4 {
-  background-color: yellow;
-  width: 90%;
-  height: 500px;
-  margin: 0 auto;
-  border: 5px solid black;
-  display: flex;
-  flex-direction: column-reverse;
-}
-
-#container4 div {
   width: 200px;
   height: 200px;
 }
